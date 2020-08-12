@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-    <img src="./imagemproffy.png">
+    <img src="https://raw.githubusercontent.com/LuisSantosJS/nlw-2/master/imagemProffy.png">
 </h1>
 
 
