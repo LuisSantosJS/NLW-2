@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-    <img src=".\.github\InterfaceAplicativo.png">
+    <img src="./imagemproffy.png">
 </h1>
 
 
